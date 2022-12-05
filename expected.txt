@@ -1,0 +1,6 @@
+Rental Record for Toms
+	罗马假日	6.5
+	英雄	18.0
+	冰河世纪	7.5
+Amount owed is 32.0
+You earned 4frequent renter points
